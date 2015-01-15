@@ -1,0 +1,16 @@
+h2 {
+    font-size: 16 pt;
+    font-style: italic;
+    text-align: center;
+    color: #003366
+}
+
+#my_style0 {
+    color: #FF0000;
+    text-align: right
+}
+
+.my_style1 {
+    color: #001122;
+    text-align: left
+}
